@@ -1,5 +1,7 @@
 # Teaching Resources (教學資源)
 
+[front page](https://toydogcat.github.io/Calculus_113/)
+
 ## computing resource
 
 * GeogeBra
