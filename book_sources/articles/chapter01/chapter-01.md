@@ -1,4 +1,4 @@
 # Functions and Limits
 
-* [1.1 Four Ways to Represent a Function](./articles/chapter01/chap101.md)
+* [1.1 Four Ways to Represent a Function](chap101.md)
 
