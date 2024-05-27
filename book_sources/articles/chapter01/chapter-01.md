@@ -1,4 +1,7 @@
 # Functions and Limits
 
-* [1.1 Four Ways to Represent a Function](chap101.md)
+* 1.1 Four Ways to Represent a Function
+* 1.2 Mathematical Models: A Catalog of Essential Functions
+
+
 
