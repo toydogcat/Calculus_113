@@ -1,6 +1,0 @@
-[submodule "resources/computing_resource"]
-	path = resources/computing_resource
-	url = https://github.com/toydogcat/sagemath_tools.git
-[submodule "resources/generative_AI_resource"]
-	path = resources/generative_AI_resource
-	url = https://github.com/tobytoy/GenerativeAI_tools.git
