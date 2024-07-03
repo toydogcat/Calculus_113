@@ -34,5 +34,35 @@ We have seen that the concept of a limit arises in finding the area of a region 
 
 
 
+1. How can we design a roller coaster for a safe and smooth ride? (See the Applied Project following Section 2.3.)
+   我們如何設計一個安全平穩的雲霄飛車？
+2. How far away from an airport should a pilot start descent? (See the Applied Project following Section 2.5.)
+   飛行員應該在距離機場多遠的地方開始下降？
+3. How can we explain the fact that the angle of elevation from an observer up to the highest point in a rainbow is always 42°?
+(See the Applied Project following Section 3.1.)
+   我們如何解釋從觀察者到彩虹最高點的仰角始終為 42° 這一事實？
+1. How can we estimate the amount of work that was required to build the Pyramid of Khufu in ancient Egypt?
+(See Exercise 36 in Section 5.4.)
+   我們如何估算建造古埃及胡夫金字塔所需的工程量？
+1. With what speed must a projectile be launched so that it escapes the earth’s gravitation pull?
+(See Exercise 77 in Section 7.8.)
+   彈體必須以什麼速度發射才能逃脫地球引力？
+1. How can we explain the changes in the thickness of sea ice over time and why cracks in the ice tend to “heal”?
+(See Exercise 56 in Section 9.3.)
+   我們如何解釋海冰厚度隨時間的變化以及為什麼冰裂縫往往會「癒合」？
+1. Does a ball thrown upward take longer to reach its maximum height or to fall back down to its original height?
+(See the Applied Project following Section 9.5.)
+   向上拋出的球是否需要更長的時間才能達到最大高度或落回原始高度？
+1. How can we fit curves together to design shapes to represent letters on a laser printer?
+(See the Applied Project following Section 10.2.)
+   我們如何將曲線擬合在一起來設計代表雷射印表機上字母的形狀？
+1. How can we explain the fact that planets and satellites move in elliptical orbits? (See the Applied Project following Section 13.4.)
+   我們如何解釋行星和衛星沿著橢圓軌道運行的事實？
+2.  How can we distribute water flow among turbines at a hydroelectric station so as to maximize the total energy production?
+(See the Applied Project following Section 14.8.)
+   如何在水力發電廠的渦輪機之間分配水流，以最大限度地提高總發電量？
+
+
+
 
 
