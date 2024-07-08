@@ -10,7 +10,7 @@
   * 1.6 Calculating Limits Using the Limit Laws
   * 1.7 The Precise Definition of a Limit
   * 1.8 Continuity
-* [第二章](./articles/chapter-02.md)
+* [第二章](./articles/chapter02/chapter-02.md)
 * [第三章](./articles/chapter-03.md)
 
 
